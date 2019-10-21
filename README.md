@@ -7,6 +7,7 @@
 
 ## implementation
 
-- [c](./c/main.c)
-- [go](./go/main.go)
-- [python](./python/main.py)
+- [c](./c)
+- [go](./go)
+- [python](./java)
+- [python](./python)
