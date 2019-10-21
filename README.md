@@ -9,5 +9,5 @@
 
 - [c](./c)
 - [go](./go)
-- [python](./java)
+- [java](./java)
 - [python](./python)
